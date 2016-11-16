@@ -101,12 +101,6 @@
           <td valign="top" align="center" width="100%" style="padding:0 0 30px 0;">
             <table cellpadding="0" cellspacing="0" border="0" class="email-wrapper" width="640" bgcolor="f6f6f6">
               <tr>
-                <td align="left" valign="top" width="100%" height="30" class="disclaimer" style="font-family:Arial; font-size:12px;padding:22px 10px 22px 10px;color: #6e6e6e;">
-                  <!--Please host the html file at somewhere and change the below path-->
-                  <a href="https://tahirkhaleeque.github.io/newsletter-november-1.html" target="_blank" style="color:#6e6e6e;">Click for mobile version</a>
-                </td>
-              </tr>
-              <tr>
                 <td align="center" valign="top">
                   <table width="640" class="email-inner" cellpadding="0" cellspacing="0" border="0">
                     <tr>
@@ -145,7 +139,7 @@
                       <td align="center" valign="top">
                         <table width="640" class="email-inner" cellpadding="0" cellspacing="0" class="email-inner">
                           <tr>
-                            <td align="left" valign="top" class="centre-text no-padding-left" style="width:570px;font-family:arial;font-size:24px;color:#777777;line-height:20px;padding:20px 0 0 35px;border-top:1px solid #e7e7e7;">
+                            <td align="left" valign="top" class="centre-text no-padding-left" style="width:570px;font-family:arial;font-size:24px;color:#333333;line-height:20px;padding:20px 0 0 35px;border-top:1px solid #e7e7e7;">
                               What's on
                               in Dubai
                             </td>
@@ -196,7 +190,7 @@
                             </td>
                           </tr>
                           <tr>
-                            <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#777777;padding-top:15px;" class="centre-text">
+                            <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#333333;padding-top:15px;" class="centre-text">
                               Experience Dubai's glamour and take<br /> in a show at this landmark with a view.<br />
                               &nbsp;
                             </td>
