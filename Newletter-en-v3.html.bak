@@ -66,7 +66,7 @@
       body[yahoo] .email-wrapper .tile-05 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-5-mobile.jpg) top center no-repeat; display:block;}
       body[yahoo] .email-wrapper .tile-06 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-6-mobile.jpg) top center no-repeat; display:block;}
       body[yahoo] .email-wrapper .tile-07 a {width:300px !important; height: 249px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-7-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-08 a {width:300px !important; height: 190px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-8-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-08 a {width:300px !important; height: 190px !important; background:url(http://www.visitdubai.com/-/media/d65804865efe41da81ca649279a4e7dc.ashx) top center no-repeat; display:block;}
       body[yahoo] .email-wrapper .social-disclaimer-wrapper {padding:10px 0;  width:300px !important; text-align:left;}
       body[yahoo] .email-wrapper .border-blue img,
       body[yahoo] .email-wrapper .border-blue {width:300px !important; display:block;}
@@ -388,7 +388,7 @@
                       </td>
                       <td align="left" valign="top" class="content-container tile-08">
                         <a href="https://www.youtube.com/watch?v=j-zdtWdso_k&list=PLmRxIfpa5duVt-WeYlT85HVddz94z0Jxc&index=6" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-8.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                        <img src="http://www.visitdubai.com/-/media/4300192deae54042bd933ec66a55d554.ashx" alt="" style="display:block;" border="0" class="desktop" />  
                         </a>
                       </td>
                     </tr>
