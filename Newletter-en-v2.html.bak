@@ -22,8 +22,8 @@
       body[yahoo] .desktop {display:none !important;}
       body[yahoo] .email-wrapper {width:300px !important;}
       body[yahoo] .email-inner {width:300px !important;}
-      body[yahoo] .email-wrapper .header a {width:300px !important; height:54px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/top-mobile) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .banner-header a {width:300px !important; height:141px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/banner-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .header a {width:300px !important; height:54px !important; background:url(images/top-mobile) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .banner-header a {width:300px !important; height:141px !important; background:url(images/banner-mobile.jpg) top center no-repeat; display:block;}
       .view-events{    width: 250px !important;
       display: block;padding-left:50px !important;}
       .item-center{margin:0 auto;}
@@ -54,19 +54,19 @@
       body[yahoo] .email-wrapper .left-column {width:295px !important; display:block !important; height:auto !important;}
       body[yahoo] .email-wrapper .left-column .left-content-wrapper {width:295px !important;display:block  !important;}
       body[yahoo] .email-wrapper .left-column {margin-bottom:0px !important;}
-      body[yahoo] .email-wrapper .left-column .left-banner {width:300px !important; height: 483px!important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-1-mobile) top center no-repeat;}
-      body[yahoo] .email-wrapper .left-column-2 .left-banner {width:300px !important; height: 300px!important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-2-mobile) top center no-repeat;}
-      body[yahoo] .email-wrapper .left-column-3 .left-banner {width:300px !important; height: 300px!important; background:url(http://www.visitdubai.com/-/media/http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-3-mobile) top center no-repeat;}
-      body[yahoo] .email-wrapper .tile-4 a {width:300px !important; height: 260px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-4-mobile) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-5 a {width:300px !important; height: 260px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-5-mobile) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-01 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-1-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-02 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-2-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-03 a {width:300px !important; height: 190px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-3-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-04 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-4-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-05 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-5-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-06 a {width:300px !important; height: 170px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-6-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-07 a {width:300px !important; height: 249px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-7-mobile.jpg) top center no-repeat; display:block;}
-      body[yahoo] .email-wrapper .tile-08 a {width:300px !important; height: 190px !important; background:url(http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-8-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .left-column .left-banner {width:300px !important; height: 483px!important; background:url(images/tile-1-mobile) top center no-repeat;}
+      body[yahoo] .email-wrapper .left-column-2 .left-banner {width:300px !important; height: 300px!important; background:url(images/tile-2-mobile) top center no-repeat;}
+      body[yahoo] .email-wrapper .left-column-3 .left-banner {width:300px !important; height: 300px!important; background:url(http://www.visitdubai.com/-/media/Images/tile-3-mobile) top center no-repeat;}
+      body[yahoo] .email-wrapper .tile-4 a {width:300px !important; height: 260px !important; background:url(images/tile-4-mobile) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-5 a {width:300px !important; height: 260px !important; background:url(images/tile-5-mobile) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-01 a {width:300px !important; height: 170px !important; background:url(images/tile-1-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-02 a {width:300px !important; height: 170px !important; background:url(images/tile-2-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-03 a {width:300px !important; height: 190px !important; background:url(images/tile-3-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-04 a {width:300px !important; height: 170px !important; background:url(images/tile-4-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-05 a {width:300px !important; height: 170px !important; background:url(images/tile-5-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-06 a {width:300px !important; height: 170px !important; background:url(images/tile-6-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-07 a {width:300px !important; height: 249px !important; background:url(images/tile-7-mobile.jpg) top center no-repeat; display:block;}
+      body[yahoo] .email-wrapper .tile-08 a {width:300px !important; height: 190px !important; background:url(images/tile-8-mobile.jpg) top center no-repeat; display:block;}
       body[yahoo] .email-wrapper .social-disclaimer-wrapper {padding:10px 0;  width:300px !important; text-align:left;}
       body[yahoo] .email-wrapper .border-blue img,
       body[yahoo] .email-wrapper .border-blue {width:300px !important; display:block;}
@@ -110,25 +110,19 @@
           <td valign="top" align="center" width="100%" style="padding:0 0 30px 0;">
             <table cellpadding="0" cellspacing="0" border="0" class="email-wrapper" width="640" bgcolor="f6f6f6">
               <tr>
-                <td align="left" valign="top" width="100%" height="30" class="disclaimer" style="font-family:Arial; font-size:12px;padding:22px 10px 22px 10px;color: #6e6e6e;">
-                  <!--Please host the html file at somewhere and change the below path-->
-                  <a href="https://tahirkhaleeque.github.io/Newletter-en-v2.html" target="_blank" style="color:#6e6e6e;">Click for mobile version</a>
-                </td>
-              </tr>
-              <tr>
                 <td align="center" valign="top">
                   <table width="640" class="email-inner" cellpadding="0" cellspacing="0" border="0">
                     <tr>
                       <td align="left" valign="top" width="100%" class="header">
                         <a href="http://www.visitdubai.com/en/" target="_blank" style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/top.jpg" alt="" style="display:block;" border="0" class="desktop" />
+                        <img src="images/top.jpg" alt="" style="display:block;" border="0" class="desktop" />
                         </a>
                       </td>
                     </tr>
                     <tr>
                       <td align="left" valign="top" width="100%" class="banner-header" style="padding-top:10px;">
                         <a href="http://www.visitdubai.com/en/" target="_blank" style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/banner.jpg" alt="Discover all thats possible" style="display:block;" border="0" class="desktop" />
+                        <img src="images/banner.jpg" alt="Discover all thats possible" style="display:block;" border="0" class="desktop" />
                         </a>
                       </td>
                     </tr>
@@ -140,8 +134,7 @@
                   <table width="640" class="email-inner" cellpadding="0" cellspacing="0" border="0">
                     <tr>
                       <td align="left" valign="top" width="100%" style="font-family:arial;background:#ffffff;font-size:14px;color:#333333;padding:30px 50px 30px 35px;" class="no-padding-left no-padding-right padding-left-right padding-left-new">
-                        Dear [name],<br />
-                        Reimagine your winter in Dubai. With an average winter temperature of 26C degrees and endless days of sunshine, this is the best holiday destination to warm up and unwind. Find thrills in some of the world's newest theme and water parks or stroll along the beautiful beaches in Dubai. Spend your evenings dining outdoors or perusing the stores in our open air shopping districts. Discover all that's possible in Dubai.
+                        Reimagine your winter in Dubai. With the brand new Dubai Opera, exciting new theme parks and glamorous City Walk II shopping precinct now open, there’s no better time to book your trip. Come and experience our gorgeous beaches, Arabian desert and fabulous cityscape for yourself. Discover all that’s possible in Dubai this winter. 
                       </td>
                     </tr>
                   </table>
@@ -160,8 +153,8 @@
                       </td>
                       <td align="center" valign="top" class="content-container view-events centre-btn-2" style="padding:30px 35px 15px 35px;">
                         <a href="http://www.visitdubai.com/en/events#/" target="_blank" style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/view-events-btn.jpg" alt="" style="display:block;" border="0" class="desktop-element" />
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/view-events-btn-mobile.jpg" alt="" style="display:none;" border="0" class="mobile-element" />
+                        <img src="images/view-events-btn.jpg" alt="" style="display:block;" border="0" class="desktop-element" />
+                        <img src="images/view-events-btn-mobile.jpg" alt="" style="display:none;" border="0" class="mobile-element" />
                         </a>
                       </td>
                     </tr>
@@ -178,7 +171,7 @@
                           <tr>
                             <td align="left" valign="top" style="padding:10px 0 0 0;" class="tile-01">
                               <a href="http://www.visitdubai.com/en/articles/things-to-do-for-nye-dubai" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-1.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                              <img src="images/tile-1.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                               </a>
                             </td>
                           </tr>
@@ -189,7 +182,7 @@
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#777777;padding-top:15px;padding-bottom:10px;" class="padding-left-new">
-                              It's going to be a spectacular New Year's Eve celebration with Dubai's amazing cityscape and fireworks display. Don't miss it...
+                              Go out with a bang this NY Eve with Dubai's<br /> amazing city scape as your backdrop for a<br /> perfect night. 
                             </td>
                           </tr>
                         </table>
@@ -199,18 +192,19 @@
                           <tr>
                             <td align="left" valign="top" style="padding:10px 0 0 0;" class="tile-02">
                               <a href="http://www.visitdubai.com/en/pois/dubai-opera" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-2.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                              <img src="images/tile-2.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                               </a>
                             </td>
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;font-weight:bold;color:#333333;padding-top:12px;" class="padding-left-new">
-                              Cultural Masterpiece
+                              Dubai Opera - Cultural Masterpiece
                             </td>
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#777777;padding-top:15px;" class="padding-left-new">
-                              Experience Dubai's glamour and take in shows by the biggest names in opera, ballet, theatre and classical music at this landmark with a view.
+                              Experience Dubai's glamour and take in a show<br /> at this landmark with a view.<br />
+                              &nbsp;
                             </td>
                           </tr>
                         </table>
@@ -225,7 +219,7 @@
                     <tr>
                       <td align="left" valign="top" class="content-container tile-03">
                         <a href="http://www.visitdubai.com/en/articles/top-rides-img-worlds-theme-park" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-3.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                        <img src="images/tile-3.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                         </a>
                       </td>
                       <td align="left" valign="top" style="width:100%;padding:25px 0 0 35px;" class="content-container no-padding-left">
@@ -240,13 +234,13 @@
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="width:90%;font-family:arial;font-size:12px;color:#777777;padding-top:15px;padding-bottom:10px;" class="padding-left-new-2">
-                              Take a sneak peek at the top rides you need to try at IMG World of Adventure. Whether you are a kid or want to feel like a kid again, IMG World has a cool ride for thrill seekers of all ages.
+                              Whether you are a kid or want to feel like a kid again, IMG World has a cool ride for thrill seekers of all ages.
                             </td>
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:14px;font-weight:bold;color:#717170;line-height:20px;padding-top:10px;padding-bottom:20px;" class="centre-text">
                               <a href="http://www.visitdubai.com/en/articles/top-rides-img-worlds-theme-park" target="_blank">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/go-now" alt="" style="display:block;" border="0" class="item-center" />
+                              <img src="images/go-now.jpg" alt="" style="display:block;" border="0" class="item-center" />
                               </a>  
                             </td>
                           </tr>
@@ -269,8 +263,8 @@
                       </td>
                       <td align="center" valign="top" class="content-container view-events centre-btn-3 " style="padding:20px 33px 15px 35px;">
                         <a href="http://www.visitdubai.com/en/trip-planner#/trip-planner" target="_blank" style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/plan-trip.jpg" alt="" style="display:block;" border="0" class="desktop-element" />
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/plan-trip.jpg" alt="" style="display:none;" border="0" class="mobile-element" />
+                        <img src="images/plan-trip.jpg" alt="" style="display:block;" border="0" class="desktop-element" />
+                        <img src="images/plan-trip.jpg" alt="" style="display:none;" border="0" class="mobile-element" />
                         </a>
                       </td>
                     </tr>
@@ -291,7 +285,7 @@
                           <tr>
                             <td align="left" valign="top" style="padding:10px 0 0 0;" class="tile-04">
                               <a href="http://www.visitdubai.com/en/Articles/dubai-beachside-hotspots" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-4.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                              <img src="images/tile-4.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                               </a>
                             </td>
                           </tr>
@@ -317,7 +311,7 @@
                           <tr>
                             <td align="left" valign="top" style="padding:10px 0 0 0;" class="tile-05">
                               <a href="http://www.visitdubai.com/en/articles/modern-hotels-in-dubai-in-photos" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-5.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                              <img src="images/tile-5.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                               </a>
                             </td>
                           </tr>
@@ -343,7 +337,7 @@
                           <tr>
                             <td style="font-family:arial;background:#ffffff;font-size:14px;font-weight:bold;color:#717170;line-height:20px;padding:10px 0 0 0;" class="tile-06">
                               <a href="http://www.visitdubai.com/en/discover/festivals/dubai-shopping-festival/dubai-shopping-festival-2017" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                              <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-6.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                              <img src="images/tile-6.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                               </a>
                             </td>
                           </tr>
@@ -354,7 +348,7 @@
                           </tr>
                           <tr>
                             <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#777777;padding-top:12px;" class="padding-left-new">
-                              Time your visit with the Dubai Shopping Festival- one of the world's greatest events to shop, win and celebrate.
+                              Time your visit for one of the world's greatest sales.
                             </td>
                           </tr>
                         </table>
@@ -387,7 +381,7 @@
                       </td>
                       <td align="left" valign="top" class="content-container tile-08">
                         <a href="https://www.youtube.com/watch?v=j-zdtWdso_k&list=PLmRxIfpa5duVt-WeYlT85HVddz94z0Jxc&index=6" target="_blank" class="left-banner item-center" style="color:transparent;border:0px; padding:0px; text-decoration:none; display:block;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-8.jpg" alt="" style="display:block;" border="0" class="desktop" />  
+                        <img src="images/tile-8.jpg" alt="" style="display:block;" border="0" class="desktop" />  
                         </a>
                       </td>
                     </tr>
@@ -405,7 +399,7 @@
                     <tr>
                       <td align="left" valign="top" style="font-family:arial;font-size14px;color:#58595b;font-weight:bold;padding:12px 0 0 0;" class="tile-07">
                         <a href="http://www.visitdubai.com/en/travel-planning/travel-tools/get-the-app" target="_blank" style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none;">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/November/Newsletter-october/tile-7.jpg" alt="Discover all thats possible" style="display:block;" border="0" class="desktop" />
+                        <img src="images/tile-7.jpg" alt="Discover all thats possible" style="display:block;" border="0" class="desktop" />
                         </a>
                       </td>
                     </tr>
@@ -440,12 +434,12 @@
                                 <tr>
                                   <td align="left" valign="top">
                                     <a href="https://twitter.com/visitdubai" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/twitter.gif" alt="" style="display:block;" border="0" class="item-center" />  
+                                    <img src="images/twitter.gif" alt="" style="display:block;" border="0" class="item-center" />  
                                     </a>
                                   </td>
                                   <td align="left" valign="top">
                                     <a href="https://www.facebook.com/visitdubai" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/facebook.gif" alt="" style="display:block;" border="0" class="item-center" />  
+                                    <img src="images/facebook.gif" alt="" style="display:block;" border="0" class="item-center" />  
                                     </a>
                                   </td>
                                 </tr>
@@ -456,12 +450,12 @@
                                 <tr>
                                   <td align="left" valign="top" >
                                     <a href="https://plus.google.com/+VisitDubai" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/google.gif" alt="" style="display:block;" border="0" class="item-center" />  
+                                    <img src="images/google.gif" alt="" style="display:block;" border="0" class="item-center" />  
                                     </a>
                                   </td>
                                   <td align="left" valign="top">
                                     <a href="https://www.youtube.com/visitdubai" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/youtube.gif" alt="" style="display:block;" border="0"class="item-center"  />  
+                                    <img src="images/youtube.gif" alt="" style="display:block;" border="0"class="item-center"  />  
                                     </a>
                                   </td>
                                 </tr>
@@ -472,12 +466,12 @@
                                 <tr>
                                   <td align="left" valign="top">
                                     <a href="https://www.instagram.com/visit.dubai/" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/insta.gif" alt="" style="display:block;" border="0" class="item-center" />  
+                                    <img src="images/insta.gif" alt="" style="display:block;" border="0" class="item-center" />  
                                     </a>
                                   </td>
                                   <td align="left" valign="top">
                                     <a href="https://www.tripadvisor.com/Tourism-g295424-Dubai_Emirate_of_Dubai-Vacations.html" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px; text-decoration:none; display:block;">
-                                    <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/trip-advisor.gif" alt="" style="display:block;" border="0" class="item-center" />  
+                                    <img src="images/trip-advisor.gif" alt="" style="display:block;" border="0" class="item-center" />  
                                     </a>
                                   </td>
                                 </tr>
@@ -513,7 +507,7 @@
                     <tr>
                       <td align="left" valign="top" style="padding:12px 0 0 0;" class="content-container">
                         <a href="http://www.visitdubai.com" target="_blank"  style="color:transparent;border:0px; margin:0px; padding:0px 0 0 35px; text-decoration:none; display:block;" class="no-padding-left">
-                        <img src="http://www.visitdubai.com/-/media/Images/Newsletters/Newsletter-august/dubai-logo.jpg" alt="" style="display:block;" border="0" class="item-center"/>  
+                        <img src="images/dubai-logo.jpg" alt="" style="display:block;" border="0" class="item-center"/>  
                         </a>
                       </td>
                       <td align="left" valign="top" style="font-family:arial;background:#ffffff;font-size:12px;color:#bdbec0;padding:12px 0 0 0" class="content-container">
